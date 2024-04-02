@@ -257,7 +257,7 @@
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compile-plugin</artifactId>
+				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.3.9</version>
 				<configuration>
 					<source>${java-version}</source>
