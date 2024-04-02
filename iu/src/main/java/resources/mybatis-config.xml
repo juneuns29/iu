@@ -28,5 +28,7 @@
 		<typeAlias alias="mVO" type="com.human.iu.vo.MemberVO"/>
 	</typeAliases>
 	
-	
+	<mappers>
+		
+	</mappers>
 </configuration>
