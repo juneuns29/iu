@@ -29,6 +29,6 @@
 	</typeAliases>
 	
 	<mappers>
-		
+		<mapper resource="resources/MemberSQL.xml" />
 	</mappers>
 </configuration>
