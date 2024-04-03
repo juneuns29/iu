@@ -8,9 +8,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.human</groupId>
 	<artifactId>iu</artifactId>
-	<packaging>war</packaging>
 	<name>IU Proj</name>
-	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<version>1.0.0-SNAPSHOT</version>
 	<!-- pom.xml 내부에서 사용할 변수 설정 -->
 	<properties>
 		<java-version>1.8</java-version>
